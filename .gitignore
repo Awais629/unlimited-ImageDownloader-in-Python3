@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# visited users log
+visitedUsers.txt
+credentials.py
+Screenshots/
+CSV/
+Analysis/
+geckodriver
+geckodriver.log
